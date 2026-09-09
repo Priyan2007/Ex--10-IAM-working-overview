@@ -1,6 +1,6 @@
 ## Ex--10-IAM-working-overviewAim
-# NAME: Priyan V
-# REG NO: 212224230211
+## NAME: Priyan V
+## REG NO: 212224230211
 To explore and configure AWS Identity and Access Management (IAM) users, groups, and policies, and to verify permissions for accessing Amazon S3 and Amazon EC2 resources.
 
 ### Aim
